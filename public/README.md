@@ -1,5 +1,5 @@
 # portfolio
-Week 9 project that renews the old bootstrap portfolio project
+This application renews the old bootstrap portfolio project
 
 ## Plan
 * base template: stylish-portfolio from startBootstrap.com site
@@ -8,7 +8,7 @@ Week 9 project that renews the old bootstrap portfolio project
 * about me: agency
 * contact: agency + clean blog
 * mobile-first: responsive one page app
-* add resume by Wednesday, next week
-* add work history in the chronical order
+* add resume - required
+* add work history to Linkedin. 
 
-### Design: no round cornor - example from clean blog
+### Design: no round cornor - clean blog
