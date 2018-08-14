@@ -1,8 +1,9 @@
-# portfolio
-This application renews the old bootstrap portfolio project
+# Portfolio
 
-## Plan
-* base template: stylish-portfolio from startBootstrap.com site
+### [Personal project showcase](https://secret-spire-33907.herokuapp.com/)
+
+## Project site
+* [ticket-galore](https://pacific-fortress-96034.herokuapp.com/)
 * top splash: get as it is now
 * portfolio collection images: creative + stylish-portfolio
 * about me: agency
